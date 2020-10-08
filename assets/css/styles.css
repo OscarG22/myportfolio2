@@ -48,3 +48,13 @@ p {
 h2 {
     text-align: center;
 }
+
+h1 {
+    text-align: center;
+}
+
+.col-lg-12 a {
+    text-align: center;
+    margin: 20px 50px;
+    color: white
+}
